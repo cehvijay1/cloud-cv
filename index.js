@@ -14,7 +14,7 @@ navLinks.forEach(link => {
 // Function to change the job title with typewriter animation
 function changeJobTitle() {
   const jobTitleElement = document.getElementById('job-title');
-  const jobTitles = ['Cloud Engineer','DevOps Engineer', 'Software Developer'];
+  const jobTitles = ['System Engineer','DevOps Engineer', 'Cloud Engineer, Data Analytic'];
   let currentJobTitleIndex = 0;
 
   // Function to initiate typing and erasing animations
